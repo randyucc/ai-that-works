@@ -12,6 +12,14 @@ client<llm> Gemini25Flash {
   }
 }
 
+client<llm> Gemini25Pro {
+  provider google-ai
+  retry_policy Exponential  
+  options {
+    model "gemini-2.5-pro"
+    api_key env.GOOGLE_API_KEY
+  }
+}
 
 client<llm> CustomGPT4o {
   provider openai
