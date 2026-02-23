@@ -16,8 +16,34 @@
       <link>https://github.com/ai-that-works/ai-that-works</link>
     </image>
     <atom:link href="https://github.com/ai-that-works/ai-that-works/raw/main/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Feb 2026 23:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 15:31:11 GMT</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title><![CDATA[AI Content Pipeline Revisited]]></title>
+      <description><![CDATA[We have another meta episode this week! Several months ago, we did an episode back about automating the pipeline for generating the artifacts and content for this podcast. That pipeline became stale, and so we breathed some life back into it and we're going to discuss the different parts of that pipeline on the podcast.
+
+This episode will discuss everything that goes into bringing you an episode. We'll discuss
+    -  Details of the entire pipeline and tools we use to bring you each episode
+    -  How to get AI to have the right tone in freeform generation and not sound like AI
+    -  Browser agents
+    -  Finding clippable content from the transcript
+    -  Image generation
+    -  How far should automation go?
+
+
+Watch: https://www.youtube.com/watch?v=U5Gssat8IUw
+Code: https://github.com/hellovai/ai-that-works/tree/main/2026-02-17-automating-aitw
+Event: https://luma.com/ai-content-generation
+
+AI That Works - Weekly conversations about production-ready AI engineering with live coding and Q&A.]]></description>
+      <link>https://www.youtube.com/watch?v=U5Gssat8IUw</link>
+      <guid isPermaLink="false">aitw-045</guid>
+      <pubDate>Tue, 17 Feb 2026 18:00:00 GMT</pubDate>
+      <category>Technology</category>
+      <category>Software Engineering</category>
+      <category>Artificial Intelligence</category>
+      <enclosure url="https://www.youtube.com/watch?v=U5Gssat8IUw" type="video/youtube" />
+    </item>
     <item>
       <title><![CDATA[Agentic Backpressure Deep Dive]]></title>
       <description><![CDATA[In our next installment of advanced coding agent workflows, we'll explore some alternatives to research for improving results from coding agents. Code and web research is great for understanding the current codebase and finding documentation, but neither of these things is as concrete, and can still lead to hallucinations or incorrect assumptions.

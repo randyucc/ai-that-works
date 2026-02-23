@@ -2,7 +2,7 @@
 guid: aitw-046
 title: "No Vibes Allowed February"
 description: |
-  In our February edition of our No Vibes Allowed series, we will be coding and shipping real features in our products using all of the concepts we cover on this podcast, including using advanced context engineering and backpressure. Join us to see how tese concepts apply to real code and real products.
+  In our February edition of our No Vibes Allowed series, we will be coding and shipping real features in our products using all of the concepts we cover on this podcast, including using advanced context engineering and backpressure. Join us to see how these concepts apply to real code and real products.
 event_link: https://luma.com/no-vibes-allowed-feb
 eventDate: 2026-02-24T18:00:00Z
 media:

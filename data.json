@@ -4,7 +4,7 @@
       "folder": "2026-02-24-no-vibes-february",
       "guid": "aitw-046",
       "title": "No Vibes Allowed February",
-      "description": "In our February edition of our No Vibes Allowed series, we will be coding and shipping real features in our products using all of the concepts we cover on this podcast, including using advanced context engineering and backpressure. Join us to see how tese concepts apply to real code and real products.\n",
+      "description": "In our February edition of our No Vibes Allowed series, we will be coding and shipping real features in our products using all of the concepts we cover on this podcast, including using advanced context engineering and backpressure. Join us to see how these concepts apply to real code and real products.\n",
       "event_link": "https://luma.com/no-vibes-allowed-feb",
       "eventDate": "2026-02-24T18:00:00Z",
       "event_type": "episode",
@@ -29,11 +29,12 @@
       "eventDate": "2026-02-17T18:00:00Z",
       "event_type": "episode",
       "media": {
-        "url": "https://www.youtube.com/playlist?list=PLi60mUelRAbFqfgymVfZttlkIyt0XHZjt",
+        "url": "https://www.youtube.com/watch?v=U5Gssat8IUw",
         "type": "video/youtube"
       },
       "links": {
-        "code": "https://github.com/ai-that-works/ai-that-works/tree/main/2026-02-17-automating-aitw"
+        "youtube": "https://www.youtube.com/watch?v=U5Gssat8IUw",
+        "code": "https://github.com/hellovai/ai-that-works/tree/main/2026-02-17-automating-aitw"
       },
       "season": 2,
       "episode": 45,
@@ -1025,14 +1026,14 @@
   ],
   "meta": {
     "totalEpisodes": 49,
-    "completedEpisodes": 44,
+    "completedEpisodes": 45,
     "upcomingEpisodes": 1,
     "workshops": 3,
     "seasons": [
       1,
       2
     ],
-    "lastUpdated": "2026-02-19T23:00:10.455Z",
+    "lastUpdated": "2026-02-23T15:31:11.203Z",
     "generatedBy": "validate-metadata.ts"
   }
 }

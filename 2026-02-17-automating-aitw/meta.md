@@ -14,10 +14,11 @@ description: |
 event_link: https://luma.com/ai-content-generation
 eventDate: 2026-02-17T18:00:00Z
 media:
-  url: https://www.youtube.com/playlist?list=PLi60mUelRAbFqfgymVfZttlkIyt0XHZjt
+  url: https://www.youtube.com/watch?v=U5Gssat8IUw
   type: video/youtube
 links:
-  code: https://github.com/ai-that-works/ai-that-works/tree/main/2026-02-17-automating-aitw
+  code: https://github.com/hellovai/ai-that-works/tree/main/2026-02-17-automating-aitw
+  youtube: https://www.youtube.com/watch?v=U5Gssat8IUw
 season: 2
 episode: 45
 event_type: episode

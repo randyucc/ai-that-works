@@ -31,16 +31,12 @@ async def generate_email(
         episode_title=episode_title,
         episode_description=episode_description,
     )
-    breakpoint()
     # Stage 2: Compose final email
     draft = await b.ComposeEmail(structure=structure)
-    breakpoint()
 
     # Stage 3: Identify AI slop patterns
     patterns = await b.IdentifyAIPatterns(draft=draft)
-    breakpoint()
 
     # Stage 4: Fix the identified patterns
     fixed_draft = await b.FixAIPatterns(draft=draft, patterns=patterns)
-    breakpoint()
     return fixed_draft

@@ -14,7 +14,7 @@
 <h2>🦄 <strong>Next Episode</strong></h2>
 <h3><strong>No Vibes Allowed February</strong></h3>
 <p><strong>Tuesday, February 24, 2026 at 10 AM PST</strong></p>
-<p><em>In our February edition of our No Vibes Allowed series, we will be coding and shipping real features in our products using all of the concepts we cover on this podcast, including using advanced context engineering and backpressure. Join us to see how tese concepts apply to real code and real products.
+<p><em>In our February edition of our No Vibes Allowed series, we will be coding and shipping real features in our products using all of the concepts we cover on this podcast, including using advanced context engineering and backpressure. Join us to see how these concepts apply to real code and real products.
 </em></p>
 
 <a href="https://luma.com/no-vibes-allowed-feb" target="_blank">
@@ -107,7 +107,7 @@ Before joining, get familiar with our toolkit:
           <a href="./2026-02-24-no-vibes-february">code</a> • <a href="https://luma.com/no-vibes-allowed-feb">register</a>
         </div>
       </div>
-    </td><td><div style="padding: 8px 0; line-height: 1.5;">In our February edition of our No Vibes Allowed series, we will be coding and shipping real features in our products using all of the concepts we cover on this podcast, including using advanced context engineering and backpressure. Join us to see how tese concepts apply to real code and real products.
+    </td><td><div style="padding: 8px 0; line-height: 1.5;">In our February edition of our No Vibes Allowed series, we will be coding and shipping real features in our products using all of the concepts we cover on this podcast, including using advanced context engineering and backpressure. Join us to see how these concepts apply to real code and real products.
 </div></td></tr>
 <tr><td>
       <div style="padding: 8px 0;">
@@ -117,7 +117,7 @@ Before joining, get familiar with our toolkit:
         <div style="color: #666; font-size: 13px; margin-bottom: 4px;">2026-02-17</div>
         <div style="font-size: 16px; line-height: 1.3; margin-bottom: 6px;"><strong>#45</strong>: AI Content Pipeline Revisited</div>
         <div style="font-size: 13px; color: #666;">
-          <a href="./2026-02-17-automating-aitw">code</a>
+          <a href="https://www.youtube.com/watch?v=U5Gssat8IUw">watch</a> • <a href="https://github.com/hellovai/ai-that-works/tree/main/2026-02-17-automating-aitw">code</a>
         </div>
       </div>
     </td><td><div style="padding: 8px 0; line-height: 1.5;">We have another meta episode this week! Several months ago, we did an episode back about automating the pipeline for generating the artifacts and content for this podcast. That pipeline became stale, and so we breathed some life back into it and we're going to discuss the different parts of that pipeline on the podcast.
