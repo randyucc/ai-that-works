@@ -47,6 +47,15 @@ client<llm> CustomSonnet4 {
   }
 }
 
+client<llm> TitleSonnet4 {
+  provider anthropic
+  options {
+    model "claude-sonnet-4-6"
+    api_key env.ANTHROPIC_API_KEY
+    temperature 0.7
+  }
+}
+
 
 client<llm> CustomHaiku {
   provider anthropic

@@ -133,7 +133,7 @@ function ExtractInMediasResClips(
     3. Be compelling to watch without any setup — the action itself is the hook
     4. Be 60-120 seconds when spoken (roughly 150-300 words) — long enough to show meaningful progress
     5. Avoid moments that are purely conversational or explanatory — find the moments where things are actually being built or demonstrated
-    6. Ideally end at a satisfying moment — something works, something is revealed, a key piece clicks into place
+    6. Ideally (but not necessarily) end at a satisfying moment — something works, something is revealed, a key piece clicks into place
 
     Look for moments where:
     - Someone starts writing code and you can follow along line by line
@@ -146,7 +146,7 @@ function ExtractInMediasResClips(
     - Return exactly 3 clips, ordered from most compelling to least compelling
     - The clips should NOT overlap — pick different moments from the transcript
     - Include the exact transcript text including speaker names and timestamps as they appear in the original
-    - The hook should SET CONTEXT (e.g., "Kevin live-codes a BAML extractor from scratch") — not tease or ask a question
+    - The hook should SET CONTEXT (e.g., "Dex live-codes a BAML extractor from scratch") — not tease or ask a question
     - If the episode has no clear action/hands-on moments, pick the closest approximations
 
     {{ ctx.output_format }}

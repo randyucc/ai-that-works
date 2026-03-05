@@ -1,12 +1,32 @@
 {
   "episodes": [
     {
+      "folder": "2026-03-10-claude-agent-skills-deep-dive",
+      "guid": "aitw-048",
+      "title": "Claude Agent Skills Deep Dive",
+      "description": "Claude Code has exploded in its abilities over the past 8 months, and it can be hard to keep up. Seemingly overnight, everyone is discussing claude's skills, commands, agents, and subagents, and a lot of the literature out there already assumes you know what these are. This week on the podcast, we're going to go over all of them. We will discuss what each one is, how and when to use it, what the benefits and drawbacks are, and how they fit into the broader context engineering picture.\n",
+      "event_link": "https://luma.com/claude-skills-deep-dive",
+      "eventDate": "2026-03-10T18:00:00Z",
+      "event_type": "episode",
+      "media": {
+        "url": "https://www.youtube.com/playlist?list=PLi60mUelRAbFqfgymVfZttlkIyt0XHZjt",
+        "type": "video/youtube"
+      },
+      "links": {
+        "code": "https://github.com/ai-that-works/ai-that-works/tree/main/2026-03-10-claude-agent-skills-deep-dive"
+      },
+      "season": 2,
+      "episode": 48,
+      "isPast": false,
+      "isWorkshop": false
+    },
+    {
       "folder": "2026-03-03-pii-redaction-and-sensitive-data-scrubbing",
       "guid": "aitw-047",
       "title": "PII Redaction and Sensitive Data Scrubbing",
       "description": "When building generative AI systems, one of the biggest risks companies face is the LLM accidentally exposing PII or PHI to an end user that isn't cleared to see it. This week on the podcast, we'll cover how to fix this problem. We'll discuss what prompting techniques you can use, and more importantly, we'll discuss how you can build evals to get comfortable with shipping these systems to users.\n",
       "event_link": "https://luma.com/pii-scrubbing",
-      "eventDate": "2026-03-03T18:00:00Z",
+      "eventDate": "2026-03-03T18:15:00Z",
       "event_type": "episode",
       "media": {
         "url": "https://www.youtube.com/playlist?list=PLi60mUelRAbFqfgymVfZttlkIyt0XHZjt",
@@ -17,7 +37,7 @@
       },
       "season": 2,
       "episode": 47,
-      "isPast": false,
+      "isPast": true,
       "isWorkshop": false
     },
     {
@@ -1046,7 +1066,7 @@
     }
   ],
   "meta": {
-    "totalEpisodes": 50,
+    "totalEpisodes": 51,
     "completedEpisodes": 46,
     "upcomingEpisodes": 1,
     "workshops": 3,
@@ -1054,7 +1074,7 @@
       1,
       2
     ],
-    "lastUpdated": "2026-02-27T12:29:05.537Z",
+    "lastUpdated": "2026-03-05T15:36:08.493Z",
     "generatedBy": "validate-metadata.ts"
   }
 }

@@ -29,7 +29,7 @@ class TitleSuggestion {
 
 // Stage 1: Extract key takeaways from transcript
 function ExtractEpisodeTakeaways(transcript: string) -> EpisodeTakeaways {
-  client Gemini25Pro
+  client CustomSonnet4
   prompt #"
     {{ _.role('user') }}
     You are analyzing an AI That Works podcast episode transcript to extract key takeaways.
@@ -59,7 +59,7 @@ function SuggestEpisodeTitles(
   takeaways: EpisodeTakeaways,
   transcript: string,
 ) -> TitleSuggestion[] {
-  client Gemini25Pro
+  client TitleSonnet4
   prompt #"
     {{ _.role('user') }}
     You are helping name an AI That Works podcast episode.
