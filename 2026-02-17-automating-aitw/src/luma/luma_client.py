@@ -368,7 +368,7 @@ class LumaClient:
         """
         Create start and end times for an event on the given date.
 
-        Events are always 10-11 AM PST.
+        Events are always 10:15-11:15 AM PST.
 
         Args:
             event_date: The date of the event
@@ -378,12 +378,12 @@ class LumaClient:
         """
         pst = ZoneInfo("America/Los_Angeles")
 
-        # Create 10 AM and 11 AM in PST
+        # Create 10:15 AM and 11:15 AM in PST
         start_local = datetime(
-            event_date.year, event_date.month, event_date.day, 10, 0, 0, tzinfo=pst
+            event_date.year, event_date.month, event_date.day, 10, 15, 0, tzinfo=pst
         )
         end_local = datetime(
-            event_date.year, event_date.month, event_date.day, 11, 0, 0, tzinfo=pst
+            event_date.year, event_date.month, event_date.day, 11, 15, 0, tzinfo=pst
         )
 
         # Convert to UTC
