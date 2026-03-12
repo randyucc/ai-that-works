@@ -1,3 +1,8 @@
+---
+name: episode_prep
+description: prepare an episode
+---
+
 # Episode Prep Command
 
 This command prepares the documentation for an upcoming episode.
@@ -36,11 +41,11 @@ Ask the user if they are satisfied with the result. If not, ask them what they d
 ```
 The system will automatically categorize the feedback as relating to the subtitle, the image, or both, and regenerate accordingly. Keep repeating this feedback loop until the user is satisfied with the image.
 
-4. **Update the provided description** 
+4. **Update the provided description**
    - If the provided episode description does not end with "Meet the Speakers🧑‍💻​
-   
-   ​​Meet Vaibhav Gupta, one of the creators of BAML and YC alum. He spent 10 years in AI performance optimization at places like Google, Microsoft, and D. E. Shaw. He loves diving deep and chatting about anything related to Gen AI and Computer Vision! 
-   
+
+   ​​Meet Vaibhav Gupta, one of the creators of BAML and YC alum. He spent 10 years in AI performance optimization at places like Google, Microsoft, and D. E. Shaw. He loves diving deep and chatting about anything related to Gen AI and Computer Vision!
+
    ​Meet Dex Horthy, founder at HumanLayer and coiner of the term Context Engineering. He spent 10+ years building devops tools at Replicated, Sprout Social and JPL. DevOps junkie turned AI Engineer.", append that to the description and use that as the new episode description going forward
 
 5. **Create  the event in Riverside**
@@ -49,7 +54,7 @@ Run this script:
    cd 2026-02-17-automating-aitw
    uv run python src/riverside/cli.py --title <provided episode title> --description <provided description> --episode-number <provided episode number> --date <provided date> --guests <additional guests if any. if none, do not add this argument>
 ```
-This will create the riverside event. 
+This will create the riverside event.
 
 6. **STOP. Tell the user to finish the Riverside Event**
 Tell the user to go turn on the livestreams and upload the generated image in Riverside. STOP AND WAIT until the user has indicated that they have done this. Once they say they have, continue.
@@ -66,7 +71,7 @@ Tell the user to go turn on the livestreams and upload the generated image in Ri
    - Create a new folder for the upcoming episode following the format
    - Create a meta.md, set the youtube link to `https://www.youtube.com/playlist?list=PLi60mUelRAbFqfgymVfZttlkIyt0XHZjt`, set the code url to `https://github.com/ai-that-works/ai-that-works`
    - Update the luma links
-   
+
 
 ```example initial meta.md
 ---

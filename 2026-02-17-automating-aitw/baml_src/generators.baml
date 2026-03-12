@@ -16,3 +16,19 @@ generator target {
     // This controls what `b.FunctionName()` will be (sync or async).
     default_client_mode async
 }
+
+generator package_target {
+    // Valid values: "python/pydantic", "typescript", "ruby/sorbet", "rest/openapi"
+    output_type "python/pydantic"
+
+    // Generate inside src so uv-installed package code can import it.
+    output_dir "../src"
+
+    // The version of the BAML package you have installed (e.g. same version as your baml-py or @boundaryml/baml).
+    // The BAML VSCode extension version should also match this version.
+    version "0.215.2"
+
+    // Valid values: "sync", "async"
+    // This controls what `b.FunctionName()` will be (sync or async).
+    default_client_mode async
+}

@@ -56,6 +56,16 @@ client<llm> TitleSonnet4 {
   }
 }
 
+client<llm> DeslopOpus45 {
+  provider anthropic
+  retry_policy Exponential
+  options {
+    model "claude-opus-4-5"
+    api_key env.ANTHROPIC_API_KEY
+    temperature 0.2
+  }
+}
+
 
 client<llm> CustomHaiku {
   provider anthropic
