@@ -15,6 +15,7 @@ Links:
 
 ## Resources
 
+- [rpi-coordination repository](https://github.com/humanlayer/rpi-coordination-template)
 - [Session Recording](https://www.youtube.com/watch?v=b5O6gb_Zuk8)
 - [Discord Community](https://boundaryml.com/discord)
 - Sign up for the next session on [Luma](https://lu.ma/baml)
