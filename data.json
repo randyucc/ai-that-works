@@ -1,6 +1,26 @@
 {
   "episodes": [
     {
+      "folder": "2026-03-24-mcp-is-dead",
+      "guid": "aitw-050",
+      "title": "MCP is Dead?",
+      "description": "MCP isn't dead...or is it? This week on the podcast, we'll dive into this debate. What is the state of MCP today?\n",
+      "event_link": "https://luma.com/is-mcp-dead",
+      "eventDate": "2026-03-24T18:00:00Z",
+      "event_type": "episode",
+      "media": {
+        "url": "https://www.youtube.com/playlist?list=PLi60mUelRAbFqfgymVfZttlkIyt0XHZjt",
+        "type": "video/youtube"
+      },
+      "links": {
+        "code": "https://github.com/ai-that-works/ai-that-works/tree/main/2026-03-24-mcp-is-dead"
+      },
+      "season": 2,
+      "episode": 50,
+      "isPast": false,
+      "isWorkshop": false
+    },
+    {
       "folder": "2026-03-17-prompt-injections-guardrails",
       "guid": "aitw-049",
       "title": "Prompt Injections Guardrails",
@@ -9,15 +29,16 @@
       "eventDate": "2026-03-17T18:00:00Z",
       "event_type": "episode",
       "media": {
-        "url": "https://www.youtube.com/playlist?list=PLi60mUelRAbFqfgymVfZttlkIyt0XHZjt",
+        "url": "https://www.youtube.com/watch?v=zU8GpxgYDvc",
         "type": "video/youtube"
       },
       "links": {
+        "youtube": "https://www.youtube.com/watch?v=zU8GpxgYDvc",
         "code": "https://github.com/ai-that-works/ai-that-works/tree/main/2026-03-17-prompt-injections-guardrails"
       },
       "season": 2,
       "episode": 49,
-      "isPast": false,
+      "isPast": true,
       "isWorkshop": false
     },
     {
@@ -1088,15 +1109,15 @@
     }
   ],
   "meta": {
-    "totalEpisodes": 52,
-    "completedEpisodes": 48,
+    "totalEpisodes": 53,
+    "completedEpisodes": 49,
     "upcomingEpisodes": 1,
     "workshops": 3,
     "seasons": [
       1,
       2
     ],
-    "lastUpdated": "2026-03-13T21:49:15.525Z",
+    "lastUpdated": "2026-03-20T17:32:18.876Z",
     "generatedBy": "validate-metadata.ts"
   }
 }

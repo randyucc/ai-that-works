@@ -16,8 +16,28 @@
       <link>https://github.com/ai-that-works/ai-that-works</link>
     </image>
     <atom:link href="https://github.com/ai-that-works/ai-that-works/raw/main/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Mar 2026 21:49:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 17:32:18 GMT</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title><![CDATA[Prompt Injections Guardrails]]></title>
+      <description><![CDATA[A major risk factor in agentic coding is Prompt Injections. Tool output, document retrieval, system prompts all get inputted into the LLM and are all at risk of prompt injections.
+
+This week on the podcast, we're going to cover how to handle this risk. We will discuss how to protect system prompts, avoid hijacking, and implementing ethical guards
+
+
+Watch: https://www.youtube.com/watch?v=zU8GpxgYDvc
+Code: https://github.com/ai-that-works/ai-that-works/tree/main/2026-03-17-prompt-injections-guardrails
+Event: https://luma.com/prompt-injection-guardrails
+
+AI That Works - Weekly conversations about production-ready AI engineering with live coding and Q&A.]]></description>
+      <link>https://www.youtube.com/watch?v=zU8GpxgYDvc</link>
+      <guid isPermaLink="false">aitw-049</guid>
+      <pubDate>Tue, 17 Mar 2026 18:00:00 GMT</pubDate>
+      <category>Technology</category>
+      <category>Software Engineering</category>
+      <category>Artificial Intelligence</category>
+      <enclosure url="https://www.youtube.com/watch?v=zU8GpxgYDvc" type="video/youtube" />
+    </item>
     <item>
       <title><![CDATA[Claude Agent Skills Deep Dive]]></title>
       <description><![CDATA[Claude Code has exploded in its abilities over the past 8 months, and it can be hard to keep up. Seemingly overnight, everyone is discussing claude's skills, commands, agents, and subagents, and a lot of the literature out there already assumes you know what these are. This week on the podcast, we're going to go over all of them. We will discuss what each one is, how and when to use it, what the benefits and drawbacks are, and how they fit into the broader context engineering picture.
