@@ -1,6 +1,26 @@
 {
   "episodes": [
     {
+      "folder": "2026-03-31-no-vibes-march",
+      "guid": "aitw-051",
+      "title": "No Vibes Allowed March Edition",
+      "description": "This week on the podcast is our March episode of our no vibes allowed series! Join us to watch how we implement everything we discuss on a weekly basis in our company's product. Real code, real trade-offs, and real production systems\n",
+      "event_link": "https://luma.com/no-vibes-allowed-march-26",
+      "eventDate": "2026-03-31T18:00:00Z",
+      "event_type": "episode",
+      "media": {
+        "url": "https://www.youtube.com/playlist?list=PLi60mUelRAbFqfgymVfZttlkIyt0XHZjt",
+        "type": "video/youtube"
+      },
+      "links": {
+        "code": "https://github.com/ai-that-works/ai-that-works/tree/main/2026-03-31-no-vibes-march"
+      },
+      "season": 2,
+      "episode": 51,
+      "isPast": false,
+      "isWorkshop": false
+    },
+    {
       "folder": "2026-03-24-mcp-is-dead",
       "guid": "aitw-050",
       "title": "MCP is Dead?",
@@ -9,15 +29,16 @@
       "eventDate": "2026-03-24T18:00:00Z",
       "event_type": "episode",
       "media": {
-        "url": "https://www.youtube.com/playlist?list=PLi60mUelRAbFqfgymVfZttlkIyt0XHZjt",
+        "url": "https://www.youtube.com/watch?v=z5inaSXkiTU",
         "type": "video/youtube"
       },
       "links": {
-        "code": "https://github.com/ai-that-works/ai-that-works/tree/main/2026-03-24-mcp-is-dead"
+        "youtube": "https://www.youtube.com/watch?v=z5inaSXkiTU",
+        "code": "https://github.com/hellovai/ai-that-works/tree/main/2026-03-24-mcp-is-dead"
       },
       "season": 2,
       "episode": 50,
-      "isPast": false,
+      "isPast": true,
       "isWorkshop": false
     },
     {
@@ -1109,15 +1130,15 @@
     }
   ],
   "meta": {
-    "totalEpisodes": 53,
-    "completedEpisodes": 49,
+    "totalEpisodes": 54,
+    "completedEpisodes": 50,
     "upcomingEpisodes": 1,
     "workshops": 3,
     "seasons": [
       1,
       2
     ],
-    "lastUpdated": "2026-03-20T17:32:18.876Z",
+    "lastUpdated": "2026-03-27T17:29:38.632Z",
     "generatedBy": "validate-metadata.ts"
   }
 }

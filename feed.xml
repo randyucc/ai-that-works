@@ -16,8 +16,26 @@
       <link>https://github.com/ai-that-works/ai-that-works</link>
     </image>
     <atom:link href="https://github.com/ai-that-works/ai-that-works/raw/main/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 20 Mar 2026 17:32:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 17:29:38 GMT</lastBuildDate>
     <ttl>1440</ttl>
+    <item>
+      <title><![CDATA[MCP is Dead?]]></title>
+      <description><![CDATA[MCP isn't dead...or is it? This week on the podcast, we'll dive into this debate. What is the state of MCP today?
+
+
+Watch: https://www.youtube.com/watch?v=z5inaSXkiTU
+Code: https://github.com/hellovai/ai-that-works/tree/main/2026-03-24-mcp-is-dead
+Event: https://luma.com/is-mcp-dead
+
+AI That Works - Weekly conversations about production-ready AI engineering with live coding and Q&A.]]></description>
+      <link>https://www.youtube.com/watch?v=z5inaSXkiTU</link>
+      <guid isPermaLink="false">aitw-050</guid>
+      <pubDate>Tue, 24 Mar 2026 18:00:00 GMT</pubDate>
+      <category>Technology</category>
+      <category>Software Engineering</category>
+      <category>Artificial Intelligence</category>
+      <enclosure url="https://www.youtube.com/watch?v=z5inaSXkiTU" type="video/youtube" />
+    </item>
     <item>
       <title><![CDATA[Prompt Injections Guardrails]]></title>
       <description><![CDATA[A major risk factor in agentic coding is Prompt Injections. Tool output, document retrieval, system prompts all get inputted into the LLM and are all at risk of prompt injections.

@@ -6,10 +6,11 @@ description: |
 event_link: https://luma.com/is-mcp-dead
 eventDate: 2026-03-24T18:00:00Z
 media:
-  url: https://www.youtube.com/playlist?list=PLi60mUelRAbFqfgymVfZttlkIyt0XHZjt
+  url: https://www.youtube.com/watch?v=z5inaSXkiTU
   type: video/youtube
 links:
-  code: https://github.com/ai-that-works/ai-that-works/tree/main/2026-03-24-mcp-is-dead
+  code: https://github.com/hellovai/ai-that-works/tree/main/2026-03-24-mcp-is-dead
+  youtube: https://www.youtube.com/watch?v=z5inaSXkiTU
 season: 2
 episode: 50
 event_type: episode

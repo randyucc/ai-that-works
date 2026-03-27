@@ -12,12 +12,12 @@
 
 <div align="center">
 <h2>🦄 <strong>Next Episode</strong></h2>
-<h3><strong>MCP is Dead?</strong></h3>
-<p><strong>Tuesday, March 24, 2026 at 10 AM PST</strong></p>
-<p><em>MCP isn't dead...or is it? This week on the podcast, we'll dive into this debate. What is the state of MCP today?
+<h3><strong>No Vibes Allowed March Edition</strong></h3>
+<p><strong>Tuesday, March 31, 2026 at 10 AM PST</strong></p>
+<p><em>This week on the podcast is our March episode of our no vibes allowed series! Join us to watch how we implement everything we discuss on a weekly basis in our company's product. Real code, real trade-offs, and real production systems
 </em></p>
 
-<a href="https://luma.com/is-mcp-dead" target="_blank">
+<a href="https://luma.com/no-vibes-allowed-march-26" target="_blank">
 <img src="https://img.shields.io/badge/🦄_REGISTER_NOW-Join_Live_Session-ff4444?style=for-the-badge&logo=calendar" alt="Register Now">
 </a>
 
@@ -101,10 +101,23 @@ Before joining, get familiar with our toolkit:
         <div style="margin-bottom: 2px;">
           <span style="background: #dc3545; color: white; padding: 2px 6px; border-radius: 3px; font-size: 11px; font-weight: bold;">UPCOMING</span>
         </div>
+        <div style="color: #666; font-size: 13px; margin-bottom: 4px;">2026-03-31</div>
+        <div style="font-size: 16px; line-height: 1.3; margin-bottom: 6px;"><strong>#51</strong>: No Vibes Allowed March Edition</div>
+        <div style="font-size: 13px; color: #666;">
+          <a href="./2026-03-31-no-vibes-march">code</a> • <a href="https://luma.com/no-vibes-allowed-march-26">register</a>
+        </div>
+      </div>
+    </td><td><div style="padding: 8px 0; line-height: 1.5;">This week on the podcast is our March episode of our no vibes allowed series! Join us to watch how we implement everything we discuss on a weekly basis in our company's product. Real code, real trade-offs, and real production systems
+</div></td></tr>
+<tr><td>
+      <div style="padding: 8px 0;">
+        <div style="margin-bottom: 2px;">
+          <span style="background: #28a745; color: white; padding: 2px 6px; border-radius: 3px; font-size: 11px; font-weight: bold;">PAST</span>
+        </div>
         <div style="color: #666; font-size: 13px; margin-bottom: 4px;">2026-03-24</div>
         <div style="font-size: 16px; line-height: 1.3; margin-bottom: 6px;"><strong>#50</strong>: MCP is Dead?</div>
         <div style="font-size: 13px; color: #666;">
-          <a href="./2026-03-24-mcp-is-dead">code</a> • <a href="https://luma.com/is-mcp-dead">register</a>
+          <a href="https://www.youtube.com/watch?v=z5inaSXkiTU">watch</a> • <a href="https://github.com/hellovai/ai-that-works/tree/main/2026-03-24-mcp-is-dead">code</a>
         </div>
       </div>
     </td><td><div style="padding: 8px 0; line-height: 1.5;">MCP isn't dead...or is it? This week on the podcast, we'll dive into this debate. What is the state of MCP today?
